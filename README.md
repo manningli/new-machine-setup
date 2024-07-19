@@ -17,6 +17,7 @@ winget install --id Microsoft.Powershell --source winget
 ```
 
 - [ ] Make PowerShell the default in Windows Terminal
+- [ ] Turn on command suggestions: `Set-PSReadLineOption -PredictionSource History`
 - [ ] Set CaskaydiaCove as the default terminal font
 - [ ] Install Oh My Posh
 
